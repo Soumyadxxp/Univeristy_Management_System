@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **University Management System (UMS)** is a Java Swing desktop application developed to manage students, professors, authentication, and semester-wise grades in a university environment.
+The **University Management System** is a Java Swing desktop application developed to manage students, professors, authentication, and semester-wise grades in a university environment.
 
 The application provides separate login privileges for **Administrator**, **Professor**, and **Student**, ensuring role-based access to the system. Data is stored permanently in a **MySQL** database using **JDBC** connectivity.
 
