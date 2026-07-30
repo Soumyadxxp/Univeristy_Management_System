@@ -6,6 +6,27 @@ The **University Management System** is a Java Swing desktop application develop
 
 The application provides separate login privileges for **Administrator**, **Professor**, and **Student**, ensuring role-based access to the system. Data is stored permanently in a **MySQL** database using **JDBC** connectivity.
 
+<img width="588" height="351" alt="Screenshot 2026-07-30 221144" src="https://github.com/user-attachments/assets/1bc0d767-820e-43df-af26-d3c235467fc3" />
+<img width="559" height="303" alt="Screenshot 2026-07-30 221204" src="https://github.com/user-attachments/assets/d1a0fe9f-5836-44f7-a564-8299450bd871" />
+<img width="543" height="327" alt="Screenshot 2026-07-30 221219" src="https://github.com/user-attachments/assets/d03145d1-8763-4e9c-ac94-a09ba2070c07" />
+<img width="894" height="670" alt="Screenshot 2026-07-30 221234" src="https://github.com/user-attachments/assets/8d9f15ab-8fd2-44ad-91eb-88ef97c35fc3" />
+<img width="934" height="679" alt="Screenshot 2026-07-30 221246" src="https://github.com/user-attachments/assets/8dfc9cd1-1c59-4c0e-9992-91e2855c558b" />
+<img width="929" height="686" alt="Screenshot 2026-07-30 221256" src="https://github.com/user-attachments/assets/b1398d66-4f8d-4196-9adb-925c9c98ce4c" />
+<img width="932" height="684" alt="Screenshot 2026-07-30 221306" src="https://github.com/user-attachments/assets/e87f132a-be5d-4676-957f-f1b180bbc4ac" />
+<img width="926" height="659" alt="Screenshot 2026-07-30 221317" src="https://github.com/user-attachments/assets/06112408-efbd-40e3-be01-6b607108e68b" />
+<img width="546" height="575" alt="Screenshot 2026-07-30 224348" src="https://github.com/user-attachments/assets/07676b5d-ed8a-4306-80a2-42a2a235dc62" />
+<img width="825" height="644" alt="Screenshot 2026-07-30 224413" src="https://github.com/user-attachments/assets/fde33a38-f587-432f-becb-c80b65941612" />
+<img width="559" height="608" alt="Screenshot 2026-07-30 224502" src="https://github.com/user-attachments/assets/c4fd4d69-1255-494b-bb34-5ee3af9c140d" />
+<img width="569" height="571" alt="Screenshot 2026-07-30 224539" src="https://github.com/user-attachments/assets/888a6d88-0bef-49ea-afd5-a6718fb8e94e" />
+<img width="872" height="641" alt="Screenshot 2026-07-30 224609" src="https://github.com/user-attachments/assets/1bd7ddf7-d7b3-4308-a56e-d30c17a9f973" />
+<img width="844" height="676" alt="Screenshot 2026-07-30 224622" src="https://github.com/user-attachments/assets/d55fb585-7cd3-4fbc-9dfe-c8aeb1d7e3e6" />
+<img width="860" height="657" alt="Screenshot 2026-07-30 224639" src="https://github.com/user-attachments/assets/bd735da5-e541-4bd3-b145-8cfe3a9f5b82" />
+<img width="842" height="649" alt="Screenshot 2026-07-30 224650" src="https://github.com/user-attachments/assets/a7762ec0-5b59-4602-9eda-4a639d80639d" />
+<img width="952" height="662" alt="Screenshot 2026-07-30 224708" src="https://github.com/user-attachments/assets/fbf237aa-2a06-421a-8d9a-4ee70cb6d3fd" />
+<img width="842" height="660" alt="Screenshot 2026-07-30 224850" src="https://github.com/user-attachments/assets/67ce50a3-399d-45c7-a868-9c3ccf96bab9" />
+<img width="928" height="713" alt="Screenshot 2026-07-30 224903" src="https://github.com/user-attachments/assets/4bb06b9e-729c-4492-9572-23863e66d46b" />
+
+
 The project demonstrates the implementation of:
 
 - Java Swing GUI
